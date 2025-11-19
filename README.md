@@ -7,7 +7,7 @@ Aspiring Data Scientist with hands-on experience in machine learning, data analy
 - 🎓 Currently studying **Applied Mathematics & Data Science @ UC Berkeley**
 - 💻 Interests: Machine Learning, Data Science, AI Tools, Quantitative Analysis
 - 🚀 Recent work: KPMG Trusted AI Dashboard (model explanations, ROI metrics, Streamlit app)
-- 📬 Reach me: harsharandeepdhillon@gmail.com
+- 📬 Reach me: hdhillon001@berkeley.edu
 
 ---
 
