@@ -39,6 +39,6 @@ Aspiring Data Scientist with hands-on experience in machine learning, data analy
 
 ## 🤝 Connect With Me  
 - **LinkedIn:** https://linkedin.com/in/harsharandeep  
-- **Email:** harsharandeepdhillon@gmail.com  
+- **Email:** hdhillon001@berkeley.edu  
 
 ---
