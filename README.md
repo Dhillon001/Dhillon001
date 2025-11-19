@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Harsharandeep Dhillon | Applied Mathematics & Data Science @ UC Berkeley  
 
