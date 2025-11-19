@@ -42,3 +42,6 @@ Aspiring Data Scientist with hands-on experience in machine learning, data analy
 - **Email:** hdhillon001@berkeley.edu  
 
 ---
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhillon001&show_icons=true)
