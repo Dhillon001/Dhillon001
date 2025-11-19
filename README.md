@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**Dhillon001/Dhillon001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Harsharandeep Dhillon | Applied Mathematics & Data Science @ UC Berkeley  
 
-Here are some ideas to get you started:
+Aspiring Data Scientist with hands-on experience in machine learning, data analysis, and building clean, reliable tools. I enjoy solving real-world problems using data and writing code that is simple, efficient, and scalable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying **Applied Mathematics & Data Science @ UC Berkeley**
+- 💻 Interests: Machine Learning, Data Science, AI Tools, Quantitative Analysis
+- 🚀 Recent work: KPMG Trusted AI Dashboard (model explanations, ROI metrics, Streamlit app)
+- 📬 Reach me: harsharandeepdhillon@gmail.com
+
+---
+
+## 🔧 Technical Skills  
+**Languages:** Python, SQL, R, Java, Scheme  
+**Machine Learning:** Scikit-learn, Pandas, NumPy, Regression Models, Classification  
+**Tools:** Streamlit, Jupyter, Git, VS Code  
+**Cloud & Data:** Snowflake, AWS (beginner), HuggingFace datasets  
+**Other:** Dashboards, Data Cleaning, Statistical Analysis  
+
+---
+
+## ⭐ Featured Projects  
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **KPMG Trusted AI Dashboard** | Built an interactive Streamlit dashboard with ROI metrics and sustainability scoring for enterprise AI adoption | Python, Pandas, Streamlit |
+| **NYC Airbnb Price Classifier** | Machine learning project predicting whether Airbnb listings are above/below $100 using feature engineering & classification models | Python, Scikit-learn |
+| **AI Energy & Water Consumption Analysis** | Analyzing the environmental impact of AI models using HuggingFace datasets | Python, Data Viz, Pandas |
+
+---
+
+## 📊 GitHub Highlights  
+- Active contributor to multiple academic, personal, and team projects  
+- Experience with version control, issue tracking, and collaborative development  
+- Growing portfolio of ML + Data Science notebooks  
+
+---
+
+## 🤝 Connect With Me  
+- **LinkedIn:** https://linkedin.com/in/harsharandeep  
+- **Email:** harsharandeepdhillon@gmail.com  
+
+---
