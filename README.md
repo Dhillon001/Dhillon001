@@ -1,7 +1,7 @@
 
 # Harsharandeep Dhillon | Applied Mathematics & Data Science @ UC Berkeley  
 
-Aspiring Data Scientist with hands-on experience in machine learning, data analysis, and building clean, reliable tools. I enjoy solving real-world problems using data and writing code that is simple, efficient, and scalable.
+Aspiring SWE & Data Scientist with hands-on experience in machine learning, data analysis, and building clean, reliable tools. I enjoy solving real-world problems using data and writing code that is simple, efficient, and scalable.
 
 - 🎓 Currently studying **Applied Mathematics & Data Science @ UC Berkeley**
 - 💻 Interests: Machine Learning, Data Science, AI Tools, Quantitative Analysis
