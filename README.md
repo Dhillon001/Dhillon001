@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Dhillon001&color=blue)
 
 # Harsharandeep Dhillon | Applied Mathematics & Data Science @ UC Berkeley  
 
