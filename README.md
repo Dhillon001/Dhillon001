@@ -12,7 +12,7 @@ Aspiring SWE & Data Scientist with hands-on experience in machine learning, data
 ---
 
 ## 🔧 Technical Skills  
-**Languages:** Python, SQL, R, Java, Scheme  
+**Languages:** Python, SQL, R, Java, Scheme, C++ 
 **Machine Learning:** Scikit-learn, Pandas, NumPy, Regression Models, Classification  
 **Tools:** Streamlit, Jupyter, Git, VS Code  
 **Cloud & Data:** Snowflake, AWS (beginner), HuggingFace datasets  
