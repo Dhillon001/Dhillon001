@@ -3,11 +3,12 @@
 # Harsharandeep Dhillon | Applied Mathematics & Data Science @ UC Berkeley  
 
 
-Aspiring SWE & Data Scientist with experience building automation systems, machine learning pipelines, full-stack AI applications, and engineering tools. My work spans semiconductor manufacturing, AI evaluation, software automation, data engineering, and scientific computing. - 🎓 Applied Mathematics & Data Science @ UC Berkeley (Expected May 2027)
+SWE & Data Scientist with experience building automation systems, machine learning pipelines, full-stack AI applications, and engineering tools. My work spans in developing machine learning pipelines, AI evaluation, software automation, data engineering, and scientific computing. 
+
 
 - 🎓 Currently studying **Applied Mathematics & Data Science @ UC Berkeley (Expected May 2027)**
-- 💻 Interests: Machine Learning, Data Science, AI Tools, Quantitative Analysis
-- 🚀 Recent work: KPMG Trusted AI Dashboard (model explanations, ROI metrics, Streamlit app)
+- 💻 Interests: Python Automation, AI Applications, Data Engineering, Linux Systems, Cloud Infrastructure, Semiconductor Software
+- 🚀 Recent work: Developing automation workflows, full-stack AI applications, and data-driven engineering solutions using Python, TypeScript, and modern AI tools
 - 📬 Reach me: hdhillon001@berkeley.edu
 
 ---
@@ -32,30 +33,7 @@ Apache Airflow • Apache Spark • ETL Pipelines • Automation & Pipeline Deve
 ### Currently Learning 
 AWS • Terraform • Kubernetes • Cloud Infrastructure
 
---- 
-## Featured Projects 
-
-### 🤖 AI Meeting Assistant 
-Full-stack AI application that converts meeting transcripts into structured summaries, project features, action items, and workflow-ready task lists. 
-
-**Tech:** Next.js, TypeScript, OpenAI API, Vercel 
-
-### 📊 KPMG Trusted AI Dashboard
-Enterprise AI evaluation platform featuring ROI analysis, model explainability, and sustainability metrics. 
-
-**Tech:** Python, Streamlit, Pandas 
-
-### ⚡ AI Energy & Water Consumption Analysis
-Analyzed performance, energy usage, and environmental trade-offs across 40,000+ AI model runs. 
-
-**Tech:** Python, Pandas, Data Visualization 
-
-### 🏠 NYC Airbnb Price Classifier
-Machine learning pipeline for Airbnb price classification using feature engineering and predictive modeling. 
-
-**Tech:** Python, Scikit-Learn ---
-
----
+ ---
 
 ## ⭐ Featured Projects  
 
@@ -68,12 +46,15 @@ Machine learning pipeline for Airbnb price classification using feature engineer
 
 ---
 
+## 🎯 Current Focus
+
+- Building AI-powered software applications
+- Learning AWS, Terraform, and Kubernetes
+- Software automation and engineering systems
+- Data engineering and scalable workflows
+- Technical interview preparation (LeetCode)
+
 ---
-## 📊 GitHub Highlights 
-- 400+ contributions in the last year - Active contributor across academic, personal, and team projects
-- Experience with version control, collaborative development, and software engineering workflows
-- Building projects across AI, automation, data engineering, and full-stack development
-  ---
 
 ## 🤝 Connect With Me  
 - **LinkedIn:** [https://linkedin.com/in/harsharandeep ](https://www.linkedin.com/in/harsharandeep-dhillon-26b291267/) 
