@@ -1,8 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhillon001&color=blue)
 
-# Harsharandeep Dhillon | Applied Mathematics & Data Science @ UC Berkeley | Software Engineering, AI/ML & Automation 
+# Harsharandeep Dhillon | Applied Mathematics & Data Science @ UC Berkeley  
 
-**Software Engineering • AI/ML • Automation • Data Engineering • Semiconductor Systems**
 
 Aspiring SWE & Data Scientist with experience building automation systems, machine learning pipelines, full-stack AI applications, and engineering tools. My work spans semiconductor manufacturing, AI evaluation, software automation, data engineering, and scientific computing. - 🎓 Applied Mathematics & Data Science @ UC Berkeley (Expected May 2027)
 
@@ -33,11 +32,28 @@ Apache Airflow • Apache Spark • ETL Pipelines • Automation & Pipeline Deve
 ### Currently Learning 
 AWS • Terraform • Kubernetes • Cloud Infrastructure
 
-**Languages:** Python, SQL, R, Java, Scheme, C++ 
-**Machine Learning:** Scikit-learn, Pandas, NumPy, Regression Models, Classification  
-**Tools:** Streamlit, Jupyter, Git, VS Code  
-**Cloud & Data:** Snowflake, AWS (beginner), HuggingFace datasets  
-**Other:** Dashboards, Data Cleaning, Statistical Analysis  
+--- 
+## Featured Projects 
+
+### 🤖 AI Meeting Assistant 
+Full-stack AI application that converts meeting transcripts into structured summaries, project features, action items, and workflow-ready task lists. 
+
+**Tech:** Next.js, TypeScript, OpenAI API, Vercel 
+
+### 📊 KPMG Trusted AI Dashboard
+Enterprise AI evaluation platform featuring ROI analysis, model explainability, and sustainability metrics. 
+
+**Tech:** Python, Streamlit, Pandas 
+
+### ⚡ AI Energy & Water Consumption Analysis
+Analyzed performance, energy usage, and environmental trade-offs across 40,000+ AI model runs. 
+
+**Tech:** Python, Pandas, Data Visualization 
+
+### 🏠 NYC Airbnb Price Classifier
+Machine learning pipeline for Airbnb price classification using feature engineering and predictive modeling. 
+
+**Tech:** Python, Scikit-Learn ---
 
 ---
 
