@@ -38,7 +38,7 @@ I'm an **Applied Mathematics & Data Science student at UC Berkeley** focused on 
 I enjoy working at the intersection of **software, data, AI, and real-world engineering** — turning complex problems into practical and measurable solutions.
 
 🎓 **UC Berkeley** — Applied Mathematics & Data Science  
-📅 **Expected Graduation:** May 2027  
+📅 **Expected Graduation:** December 2027  
 📍 **Berkeley, California**
 
 ---
