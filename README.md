@@ -38,7 +38,7 @@ I'm an **Applied Mathematics & Data Science student at UC Berkeley** focused on 
 I enjoy working at the intersection of **software, data, AI, and real-world engineering** — turning complex problems into practical and measurable solutions.
 
 🎓 **UC Berkeley** — Applied Mathematics & Data Science  
-📅 **Expected Graduation:** December 2027  
+📅 **Expected Graduation:** 2027  
 📍 **Berkeley, California**
 
 ---
@@ -93,6 +93,53 @@ Developed data-driven tools for **enterprise AI adoption and responsible AI**.
 ---
 
 # 🚀 Featured Projects
+
+## 🕵️ Agentic Code Review
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/Dhillon001/agentic-code-review)
+![Claude](https://img.shields.io/badge/powered%20by-Claude-d97757?style=flat-square)
+![Tests](https://img.shields.io/badge/76%20tests-offline-8b5cf6?style=flat-square)
+
+A **multi-agent pull-request reviewer** that would rather say nothing than say something wrong. Four specialist agents review a PR in parallel, then a **stronger verifier model** re-checks every finding against the real code — only verified comments get posted.
+
+### ✨ Highlights
+
+- 🧠🔒⚡🧪 **4 parallel specialists** — correctness, security, performance and tests — returning structured findings via forced tool-use JSON schemas
+- 🕵️ **Verifier pass** rejects speculative findings; a missing verdict counts as a rejection
+- 🎯 **Ranking & placement** — dedupe, severity floor, per-PR comment cap, and comments snapped onto real diff lines
+- 📚 **Context retrieval** pulls in call sites of changed symbols across the repo
+- 🧹 **Noise filtering** skips lockfiles, minified bundles and generated code before any tokens are spent
+- 📊 **Eval harness** measures precision, recall and F1 on labelled PRs, including clean ones where the right answer is silence
+- 📦 Ships as a **GitHub Action** or an **HMAC-verified FastAPI webhook** in Docker
+
+### 🛠️ Stack
+
+`Python` `Claude API` `Multi-Agent` `FastAPI` `Pydantic` `Docker` `GitHub API` `pytest`
+
+---
+
+## 🧪 ai-eval — LLM Evaluation Framework
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/Dhillon001/ai-eval)
+[![CI](https://github.com/Dhillon001/ai-eval/actions/workflows/ci.yml/badge.svg)](https://github.com/Dhillon001/ai-eval/actions/workflows/ci.yml)
+![Tests](https://img.shields.io/badge/140%20tests-passing-2ea44f?style=flat-square)
+
+**Test your LLM apps the way you test your code.** An offline evaluation runner for LLM, RAG and agent systems — JSONL test cases in, scored runs out, regressions caught before they merge.
+
+### ✨ Highlights
+
+- 🎯 **6 scorers** — exact, checklist, LLM-as-judge, RAG faithfulness, retrieval (`recall@k`, `hit_rate`, `MRR`) and agent tool-call trajectories
+- 🔌 **4 adapters** — OpenAI, Anthropic, any HTTP service, or a deterministic offline mock
+- 🚦 **CI regression gate** — GitHub Actions evaluates the base commit and the PR head, and blocks the merge on pass→fail flips or score drops
+- ♻️ **Production-grade reliability** — exponential backoff on 429/5xx, SHA-256 judge cache, parallel runs
+- 💸 **Cost tracking** — per-run USD cost split between the system under test and the judge
+- 🗂️ **Run history** — SQLite store with HTML reports and per-tag / per-scorer breakdowns
+
+### 🛠️ Stack
+
+`Python` `Typer` `Pydantic` `httpx` `SQLite` `OpenAI API` `Anthropic API` `GitHub Actions`
+
+---
 
 ## 🤖 AI Meeting Assistant
 
